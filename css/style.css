@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+/* shared css */
+.products-title {
+  color: #3a3a3a;
+  font-size: 24px;
+  font-weight: 700;
+}
+.similar-color {
+  color: #3a3a3a;
+}
+.home-about {
+  color: #3a3a3a;
+  font-feature-settings: "clig" off, "liga" off;
+  font-size: 16px;
+  font-weight: 600;
+}
+/* header section start */
+header {
+  max-width: 1440px;
+  margin: 80px auto;
+}
+/* header > nav section */
+.nav-all-item {
+  display: flex;
+  justify-content: space-between;
+}
+nav ul {
+  display: flex;
+}
+nav li {
+  list-style: none;
+  margin-left: 34px;
+}
+.all-links-home {
+  /* display: flex; */
+  align-items: center;
+}
+nav a {
+  color: #000;
+  text-decoration: none;
+}
+.banner-section {
+  display: flex;
+  justify-content: space-between;
+}
+.start-journey {
+  margin-top: 145px;
+}
+.start-journey h1 {
+  font-size: 52px;
+  font-weight: 700;
+}
+.start-journey p {
+  padding: 16px 0;
+}
+.btn-1 {
+  padding: 10px 24px;
+  gap: 8px;
+  border-radius: 41px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  background: #e02c6d;
+  border: #fff;
+}
+.bg{
+    bottom: 450px;
+    position: relative;
+    z-index: -1;
+}
+.camera-bg {
+    margin-top: 80px;
+    margin-right: 132px;
+}
