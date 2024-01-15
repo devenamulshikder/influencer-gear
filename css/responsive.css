@@ -30,5 +30,11 @@
         gap: 20px;
     }
 
-    
+    .collection{
+        grid-template-columns: 1fr;
+    }
+    .btn-2{
+        margin: 0;
+        padding: 0;
+    }
 }
