@@ -91,6 +91,12 @@ nav a {
   /* margin: 100px auto; */
 }
 /* main section styles */
+.popular {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 28px;
+  font-weight: 600;
+}
 main {
   background-color: #fff;
 }
@@ -117,6 +123,29 @@ main {
   line-height: 143%;
   letter-spacing: 0.252px;
 }
-.collection i{
-  color: #FB8200;
+.collection i {
+  color: #fb8200;
+}
+.collection h2 {
+  color: #18191f;
+  font-size: 28px;
+  font-weight: 500;
+}
+.collection h4 {
+  color: rgba(0, 0, 0, 0.87);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 400;
+}
+.btn-2 {
+  color: #e02c6d;
+  border: none;
+  background-color: #fff;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  display: block;
+  margin-top: 50px;
+  margin-left: 89%;
 }
