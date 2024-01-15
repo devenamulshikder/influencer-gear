@@ -149,3 +149,34 @@ main {
   margin-top: 50px;
   margin-left: 1280px;
 }
+/* feature section */
+section {
+  max-width: 1300px;
+  margin: 0 auto;
+}
+.feature-product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.feature-product h2 {
+  color: #0a0826;
+  font-size: 38px;
+  font-weight: 700;
+  padding: 10px 0;
+}
+.btn-3 {
+  background-color: #e02c6d;
+  display: inline-flex;
+  padding: 10px 24px;
+  align-items: flex-start;
+  gap: 8px;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  margin-top: 26px;
+}
+.btn-3 i{
+  margin-top: 5px;
+}
