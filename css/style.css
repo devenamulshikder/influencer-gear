@@ -177,6 +177,31 @@ section {
   border: none;
   margin-top: 26px;
 }
-.btn-3 i{
+.btn-3 i {
   margin-top: 5px;
+}
+/* footer section */
+footer {
+  background-color: #0a0826;
+  padding-top: 50px;
+  text-align: center;
+}
+.footer-title h3 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 700;
+}
+.footer-title p {
+  color: #d9dbe1;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
+.footer-title i{
+  margin-right: 15px;
+  margin-top: 17px;
+  margin-bottom: 50px;
+  font-size: 30px;
+  color: #fff;
 }
